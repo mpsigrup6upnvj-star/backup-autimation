@@ -11,4 +11,4 @@ BACKUP_DIR="$HOME/backup"
 LOG_FILE="./backup.log"
 
 # Cara pakai dengan nilai di atas:
-# ./backup_sederhana.sh "$SOURCE_DIR" "$BACKUP_DIR"
+# ./backup.sh "$SOURCE_DIR" "$BACKUP_DIR"
