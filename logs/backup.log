@@ -1,0 +1,5 @@
+[2026-10-22 21:20:12] Backup berhasil dari '/home/cahayaay/p11/uji/sumber' ke '/home/cahayaay/p11/uji/tujuan'
+[2026-10-22 21:25:35] Backup gagal: jumlah parameter tidak valid
+[2026-10-22 21:27:34] Backup gagal: sumber tidak valid (/home/cahayaay/p11/uji/tidak_ada)
+[2026-10-22 21:29:23] Backup gagal: tujuan sama dengan/berada di dalam sumber (/home/cahayaay/p11/uji/sumber/hasil)
+[2026-10-22 21:29:25] Backup gagal: tujuan bukan direktori (/home/cahayaay/p11/uji/file.txt)
