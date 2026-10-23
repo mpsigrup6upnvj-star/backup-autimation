@@ -1,0 +1,14 @@
+# Contoh pengaturan backup (hanya contoh, belum dibaca otomatis oleh script)
+# Salin menjadi config lalu sesuaikan nilainya.
+
+# Folder yang mau dibackup
+SOURCE_DIR="$HOME/data_penting"
+
+# Folder tempat hasil backup disimpan
+BACKUP_DIR="$HOME/backup"
+
+# Lokasi file log (script menulisnya di folder yang sama dengan script)
+LOG_FILE="./backup.log"
+
+# Cara pakai dengan nilai di atas:
+# ./backup_sederhana.sh "$SOURCE_DIR" "$BACKUP_DIR"
